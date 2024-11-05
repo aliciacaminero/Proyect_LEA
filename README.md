@@ -1,1 +1,7 @@
-# Proyect_LEA
+# Proyect_LEA - Análisis de Revalorización de Sets de LEGO: Marvel, Harry Potter y Star Wars
+
+Este proyecto explora la revalorización de sets de LEGO de temáticas icónicas, específicamente Marvel, Harry Potter y Star Wars, desde 1999 (año del lanzamiento del primer set de Star Wars). Con el creciente interés en estos sets como una alternativa de inversión, analizamos cómo se han comportado en comparación con activos tradicionales como el oro. Este análisis permite ver si estos juguetes de colección pueden ofrecer una rentabilidad significativa a lo largo del tiempo.
+
+Este proyecto sugiere que los sets de LEGO de series icónicas pueden ser una alternativa interesante de inversión para quienes buscan diversificar. Si bien el mercado de LEGO es menos estable y predecible que el oro, su alta demanda y la limitada disponibilidad de ciertos sets pueden ofrecer grandes oportunidades de revalorización. A medida que las franquicias de Star Wars, Marvel y Harry Potter sigan generando contenido y expandiéndose, es probable que los sets de LEGO vinculados a estas franquicias continúen siendo altamente valorados en el mercado secundario.
+
+El análisis de la revalorización de sets específicos desde su lanzamiento hasta la actualidad permite comparar su retorno con el del oro. En este proyecto, se presentan gráficos y datos históricos que muestran cómo ciertos sets de LEGO han superado el rendimiento del oro en periodos de 5 a 10 años. Los datos reflejan que, aunque el oro es menos volátil y más predecible, el valor de los sets de LEGO puede dispararse debido a factores como la nostalgia, el coleccionismo y las ediciones limitadas.
